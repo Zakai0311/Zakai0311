@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... nothing
 - 💞️ I’m looking to collaborate on ... scripts
-- 📫 How to reach me ... to backdoor games
 
 <!---
 Zakai0311/Zakai0311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
