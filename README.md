@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zakai0311
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... nothing
+- 🌱 I’m currently learning ... scripting
 - 💞️ I’m looking to collaborate on ... scripts
 
 <!---
